@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineet-salimath" alt="vineet-salimath" /></a> </p>
 
-- 🌱 I’m currently learning **I’m learning offensive security and penetration testing using industry-standard tools for recon, scanning, exploitation, traffic analysis, and cryptography.**
+- **I’m learning offensive security and penetration testing using industry-standard tools for recon, scanning, exploitation, traffic analysis, and cryptography.**
 
-- 💬 Ask me about **Kali Linux, BurpSuite, Wappalyzer.**
+-  Ask me about **Kali Linux, BurpSuite, Wappalyzer.**
 
-- 📫 How to reach me **vineetsalimath27@gmail.com**
+- How to reach me **vineetsalimath27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
