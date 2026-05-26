@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vineet v Salimath
 
-### Offensive Security Enthusiast | Red Teaming | VAPT
+### Offensive Security Enthusiast | Red Teaming | VAPT | Data Science & Analytics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vineet-salimath&label=Profile views&color=0e75b6&style=flat" alt="Vineet-salimath" /> </p>
 
